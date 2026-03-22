@@ -13,8 +13,7 @@ We aim to create a space where ideas grow from their roots into impactful soluti
 
 ## 🎯 What We Do
 - 💻 Develop real-world projects  
-- 🎨 Create designs & digital experiences  
-- 🎤 Organize tech & cultural events  
+- 🎨 Create designs & digital experiences   
 - 🤝 Build a collaborative community  
 
 ---
@@ -33,15 +32,6 @@ Technology & Development
 Design & Content  
 - Graphic Design  
 - UI/UX  
-- Branding & Media  
-
----
-
-### 🎤 Udbhavix Events
-Execution & Activities  
-- Hackathons  
-- Competitions  
-- Cultural Events  
 
 ---
 
